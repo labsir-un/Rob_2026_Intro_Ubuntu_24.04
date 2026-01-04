@@ -9,7 +9,7 @@
 
 <h1>Introducción a Linux</h1>
 
-<h2>Guía 00 - Instalación y Uso Básico de Ubuntu 24.04 LTS (Noble Numbat)</h2>
+<h2>Instalación y Uso Básico de Ubuntu 24.04 LTS (Noble Numbat)</h2>
 
 <h4><b>Base del curso:</b> Ubuntu 24.04 LTS + ROS 2 Jazzy Jalisco</h4>
 
